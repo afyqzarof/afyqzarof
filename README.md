@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afyqeyzar
-- 👀 I’m interested in Front End development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning HTML CSS Javascript
 - 💞️ I’m looking to collaborate on Webpages
 - 📫 How to reach me email: norafyqe@gmail.com
