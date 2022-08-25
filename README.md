@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afyqeyzar
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning HTML CSS Javascript
+- 🌱 I’m currently learning HTML CSS Javascript Python and Ruby
 - 💞️ I’m looking to collaborate on Webpages
 - 📫 How to reach me email: norafyqe@gmail.com
 
