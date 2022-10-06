@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm afyq eyzar</h1>
-<h3 align="center">a 3rd year physics BSc student at Imperial College London</h3>
+<h3 align="center">a final year physics BSc student at Imperial College London</h3>
 
 - 🌱 I’m currently learning **Full Stack Development on The Odin Project**
 
