@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Afyq Zarof</h1>
 <h3 align="center">Aspiring Software Engineer | Imperial College London Physics Graduate | Independent Singer/Songwriter/Producer</h3>
 
-- 🌱 I’m currently learning **Full Stack Development on The Odin Project**
+- 🌱 I’m currently learning **Software Engineering with BrainStation**
 
 - 📫 How to reach me **norafyqe@gmail.com**
 
