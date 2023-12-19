@@ -23,7 +23,7 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
 </p>
 
-![Codewars](https://github.r2v.ch/codewars?user=afyqzarof)
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=afyqzarof) -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afyqzarof&show_icons=true&locale=en" alt="afyqeyzar" /></p>
 
