@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afyq Zarof</h1>
-<h3 align="center">Aspiring Software Engineer | Imperial College London Physics Graduate | Independent Singer/Songwriter/Producer</h3>
+<h3 align="center">Software Engineer | Imperial College London Physics Graduate | Independent Singer/Songwriter/Producer</h3>
 
 - 🌱 I’m currently learning **Software Engineering with BrainStation**
 
