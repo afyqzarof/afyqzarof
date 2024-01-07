@@ -27,4 +27,4 @@
 <a href="https://instagram.com/nuclear.instruments" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuclear.instruments" height="40" width="40" /></a>
 
 [![Top Langs](https://github-readme-stats-three-opal-30.vercel.app/api/top-langs/?username=afyqzarof&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Codewars](https://github.r2v.ch/codewars?user=afyqzarof)
+![Codewars](https://github.r2v.ch/codewars?user=afyqzarof&theme=light)
