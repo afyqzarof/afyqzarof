@@ -26,10 +26,8 @@
 <a href="https://www.linkedin.com/in/afyq-zarof/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="linkedIn logo" height="40" width="40" /></a>
 <a href="https://instagram.com/nuclear.instruments" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuclear.instruments" height="40" width="40" /></a>
 
+[![Top Langs](https://github-readme-stats-three-opal-30.vercel.app/api/top-langs/?username=afyqzarof&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
 
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=afyqzarof) -->
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afyqzarof&show_icons=true&locale=en" alt="afyqeyzar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afyqzarof&" alt="afyqzarof" /></p> -->
+![Codewars](https://github.r2v.ch/codewars?user=afyqzarof)
