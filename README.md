@@ -1,4 +1,4 @@
-# Hi 👋, I'm Afyq Zarof
+# Hello, I'm Afyq
 
 #### Software Engineer | Imperial College London Physics Graduate | Independent Singer/Songwriter/Producer</h3>
 
