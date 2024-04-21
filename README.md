@@ -1,10 +1,6 @@
 # Hello, I'm Afyq
 
-#### Software Engineer | Imperial College London Physics Graduate | Independent Singer/Songwriter/Producer</h3>
-
-- 🌱 I’m currently learning **Docker and AWS**
-
-- 📫 How to reach me **norafyqe@gmail.com**
+#### Creative Fullstack Developer | Imperial College London Physics Graduate | Independent Singer/Songwriter/Producer</h3>
 
 ## Technologies
 
@@ -38,7 +34,26 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" alt="node.js" width="90" > </a><a href="https://knexjs.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/knex-js-icon-2048x2048-l5vf0s33.png" alt="node.js" width="50" > </a></td>
 
 </tr>
+<tr>
+<td>
+<h4>Creative Tools<h4>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" height="40"/> </a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-blender-3521310-2944729.png?f=webp" alt="blender" height="40"/> </a>
+<a href="https://www.apple.com/uk/logic-pro/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Logic_Pro_icon.png" alt="logic pro" height="40"/> </a>
+<a href="https://www.apple.com/uk/final-cut-pro/" target="_blank" rel="noreferrer"> <img src="https://static1.squarespace.com/static/5e949a92e17d55230cd1d44f/t/6453ba8ea2c38b1e6788ef9c/1683208855218/FCiOSicon.png" alt="final cut pro" height="40"/> </a>
+<a href="https://www.ableton.com/en/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/335/953/png-clipart-ableton-live-music-computer-software-sound-others-miscellaneous-angle.png" alt="ableton" height="40"/> </a>
 
+</td>
+<td>
+<h4>Data</h4>
+
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:524/1*CsRki-Xfk8wFDAHJK5DX-w.png" alt="node.js" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/pandas8580.logowik.com.webp" alt="node.js" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://codersdaily.in/media/courses/matplotlib-codersdaily.png" alt="node.js" height="40"/> </a>
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="node.js" height="40"/> </a>
+
+</td>
+</tr>
 <tr>
 <td>
 <h4>Testing:</h4>
@@ -56,17 +71,9 @@
 
 </td>
 </tr>
+
 <tr>
-<td>
-<h4>Data</h4>
-
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:524/1*CsRki-Xfk8wFDAHJK5DX-w.png" alt="node.js" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/pandas8580.logowik.com.webp" alt="node.js" height="40"/> </a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://codersdaily.in/media/courses/matplotlib-codersdaily.png" alt="node.js" height="40"/> </a>
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="node.js" height="40"/> </a>
-
-</td>
-<td>
+<td colspan="2">
 <h4>Additional:</h4>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
