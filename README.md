@@ -31,7 +31,10 @@
 
 <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/node-js-icon-227x256-913nazt0.png" alt="node.js" width="40" height="40"/> </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*i2fRBk3GsYLeUk_Rh7AzHw.png" alt="express.js" width="90" /> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.png" alt="node.js" width="90" > </a><a href="https://knexjs.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/knex-js-icon-2048x2048-l5vf0s33.png" alt="node.js" width="50" > </a></td>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="mysql" width="90" > </a><a href="https://knexjs.org/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/knex-js-icon-2048x2048-l5vf0s33.png" alt="knex.js" width="50" > </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo-1024x640.png" alt="sqlite" width="50" > </a>
+
+</td>
 
 </tr>
 <tr>
