@@ -16,5 +16,5 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=afyqzarof&theme=dark)
 <p align="center">
-        <img src="./banner.svg" alt="Bottom" />
+  <img src="./banner.svg" alt="Banner" width="100%" />
 </p>
