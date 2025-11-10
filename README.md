@@ -15,3 +15,6 @@
 <a href="https://instagram.com/nuclear.instruments" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nuclear.instruments" height="40" width="40" /></a>
 
 ![Codewars](https://github.r2v.ch/codewars?user=afyqzarof&theme=dark)
+<p align="center">
+        <img src="./banner.svg" alt="Bottom" />
+</p>
