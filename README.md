@@ -1,7 +1,13 @@
-# Hello, I'm Afyq
-
-#### Creative Fullstack Developer | Imperial College London Physics Graduate | Independent Singer/Songwriter/Producer
-
+```
+▐▌   ▗▞▀▚▖█ █  ▄▄▄      ▄ ▄▄▄▄      ▗▞▀▜▌▗▞▀▀▘▄   ▄  ▄▄▄▄ 
+▐▌   ▐▛▀▀▘█ █ █   █     ▄ █ █ █     ▝▚▄▟▌▐▌   █   █ █   █ 
+▐▛▀▚▖▝▚▄▄▖█ █ ▀▄▄▄▀     █ █   █          ▐▛▀▘  ▀▀▀█ ▀▄▄▄█ 
+▐▌ ▐▌     █ █           █                ▐▌   ▄   █     █ 
+                                               ▀▀▀      ▀                                                         
+```
+- Creative Fullstack Developer
+- Imperial College London Physics Graduate
+- Independent Singer/Songwriter/Producer
 ## Connect with me
 
 <p align="left">
