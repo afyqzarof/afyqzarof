@@ -3,7 +3,7 @@
 ▐▌   ▐▛▀▀▘█ █ █   █     ▄ █ █ █     ▝▚▄▟▌▐▌   █   █ █   █ 
 ▐▛▀▚▖▝▚▄▄▖█ █ ▀▄▄▄▀     █ █   █          ▐▛▀▘  ▀▀▀█ ▀▄▄▄█ 
 ▐▌ ▐▌     █ █           █                ▐▌   ▄   █     █ 
-                                               ▀▀▀      ▀                                                         
+                                               ▀▀▀      ▀ 
 ```
 - Creative Fullstack Developer
 - Imperial College London Physics Graduate
