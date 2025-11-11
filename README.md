@@ -1,15 +1,17 @@
 ```
-▐▌   ▗▞▀▚▖█ █  ▄▄▄      ▄ ▄▄▄▄      ▗▞▀▜▌▗▞▀▀▘▄   ▄  ▄▄▄▄
-▐▌   ▐▛▀▀▘█ █ █   █     ▄ █ █ █     ▝▚▄▟▌▐▌   █   █ █   █
-▐▛▀▚▖▝▚▄▄▖█ █ ▀▄▄▄▀     █ █   █          ▐▛▀▘  ▀▀▀█ ▀▄▄▄█
-▐▌ ▐▌     █ █           █                ▐▌   ▄   █     █
-                                               ▀▀▀      ▀
+▐▌   ▗▞▀▚▖█ █  ▄▄▄  ▄     ▄ ▄▄▄▄      ▗▞▀▜▌▗▞▀▀▘▄   ▄  ▄▄▄▄
+▐▌   ▐▛▀▀▘█ █ █   █ ▞     ▄ █ █ █     ▝▚▄▟▌▐▌   █   █ █   █
+▐▛▀▚▖▝▚▄▄▖█ █ ▀▄▄▄▀       █ █   █          ▐▛▀▘  ▀▀▀█ ▀▄▄▄█
+▐▌ ▐▌     █ █             █                ▐▌   ▄   █     █
+                                                 ▀▀▀      ▀
 ```
+
 ```
 - Creative Fullstack Developer
 - Imperial College London Physics Graduate
 - Independent Singer/Songwriter/Producer
 ```
+
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=afyqzarof&theme=dark) -->
 
 <p align="center">
