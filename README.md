@@ -8,7 +8,7 @@
 ```
 
 ```
-- Creative Fullstack Developer
+- Creative Product Engineer
 - Imperial College London Physics Graduate
 - Independent Singer/Songwriter/Producer
 ```
